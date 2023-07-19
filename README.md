@@ -1,4 +1,4 @@
-We are going to implement **Dijkstra** and **A*** algorithms with Python 3. This template is provided to you as a starting point. After you finish coding, you would be able to create your own map to test different algorithms, and visualize the path found by them.
+We are going to implement **Dijkstra** and **A*** algorithms with Python 3. You would be able to create your own map to test different algorithms, and visualize the path found by them.
 
 Files included:
 
